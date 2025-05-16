@@ -10,7 +10,7 @@ I built this project to:
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 - **Python** – Video to audio conversion service  
 - **Docker** – Containerization  
@@ -20,7 +20,7 @@ I built this project to:
 
 ---
 
-## 🚀 Features
+## Features
 
 - Upload a video and convert it to audio
 - Microservices-based architecture
